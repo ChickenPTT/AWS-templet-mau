@@ -1,5 +1,5 @@
 ﻿---
-title: "Proposal: Giải pháp tự động hóa giám sát chất lượng hàng hóa"
+title: "Proposal: c"
 date: 2026-06-21
 weight: 1
 chapter: false
