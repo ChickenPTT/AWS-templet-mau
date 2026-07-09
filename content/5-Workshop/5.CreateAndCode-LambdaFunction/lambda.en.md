@@ -1,7 +1,7 @@
 ﻿---
 title: "Create and Code an AWS Lambda Function"
 date: 2026-06-21
-weight: 6
+weight: 5
 chapter: false
 pre: ""
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "Tạo hàng đợi tin nhắn Amazon SQS"
 date: 2026-06-21
-weight: 4
+weight: 3
 chapter: false
 pre: ""
 ---

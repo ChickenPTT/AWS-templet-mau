@@ -1,7 +1,7 @@
 ﻿---
 title: "Proposal: c"
 date: 2026-06-21
-weight: 1
+weight: 2
 chapter: false
 pre: ""
 ---

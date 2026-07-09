@@ -1,7 +1,7 @@
 ---
 title: "Tổng quan về Workshop "
 date: 2026-06-21
-weight: 2
+weight: 1
 chapter: false
 pre: ""
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "Chuẩn bị IAM Role cho Lambda"
 date: 2026-06-21
-weight: 3
+weight: 2
 chapter: false
 pre: ""
 ---

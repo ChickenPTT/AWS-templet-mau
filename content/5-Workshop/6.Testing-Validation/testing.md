@@ -1,7 +1,7 @@
 ﻿---
 title: "Kiểm thử hệ thống"
 date: 2026-06-21
-weight: 7
+weight: 6
 chapter: false
 pre: ""
 ---
