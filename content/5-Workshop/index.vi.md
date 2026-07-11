@@ -16,10 +16,10 @@ Hệ thống sử dụng Amazon Rekognition để phân tích hình ảnh hàng 
 
 #### Nội dung
 
-1. [Tổng quan Workshop](1.WorkShop-overview/OverView.md)
-2. [Chuẩn bị IAM Role](2.IAM-Role-Prepare/iam.md)
-3. [Tạo Chat Queue với AWS SQS](3.Create-Chat-Queue(AWS-SQS)/sqs.md)
-4. [Cấu hình S3 và Event Notification](4.Congif-Save-And-Event(AWS-S3)/s3.md)
-5. [Tạo và Code Lambda Function](5.CreateAndCode-LambdaFunction/lambda.md)
-6. [Testing và Validation](6.Testing-Validation/testing.md)
-7. [Dọn dẹp tài nguyên](7.CleanUp/cleanup.md)
+1. [Tổng quan Workshop](1.WorkShop-overview/index.md)
+2. [Chuẩn bị IAM Role](2.IAM-Role-Prepare/index.md)
+3. [Tạo Chat Queue với AWS SQS](3.Create-Chat-Queue(AWS-SQS)/index.md)
+4. [Cấu hình S3 và Event Notification](4.Congif-Save-And-Event(AWS-S3)/index.md)
+5. [Tạo và Code Lambda Function](5.CreateAndCode-LambdaFunction/index.md)
+6. [Testing và Validation](6.Testing-Validation/index.md)
+7. [Dọn dẹp tài nguyên](7.CleanUp/index.md)

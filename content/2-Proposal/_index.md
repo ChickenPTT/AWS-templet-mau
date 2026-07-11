@@ -1,9 +1,9 @@
 ﻿---
-title: "Proposal: c"
+title: "Proposal"
 date: 2026-06-21
 weight: 2
 chapter: false
-pre: ""
+pre: " <b> 2. </b> "
 ---
 
 # Giải pháp tự động hóa giám sát chất lượng hàng hóa dựa trên Serverless và AI/ML

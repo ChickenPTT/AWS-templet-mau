@@ -16,10 +16,10 @@ The system uses Amazon Rekognition to analyze product images and detect damage s
 
 #### Content
 
-1. [Workshop Overview](1.WorkShop-overview/OverView.en.md)
-2. [Prepare IAM Role](2.IAM-Role-Prepare/iam.en.md)
-3. [Create Chat Queue with AWS SQS](3.Create-Chat-Queue(AWS-SQS)/sqs.en.md)
-4. [Configure S3 and Event Notification](4.Congif-Save-And-Event(AWS-S3)/s3.en.md)
-5. [Create and Code Lambda Function](5.CreateAndCode-LambdaFunction/lambda.en.md)
-6. [Testing and Validation](6.Testing-Validation/testing.en.md)
-7. [Clean Up Resources](7.CleanUp/cleanup.en.md)
+1. [Workshop Overview](1.WorkShop-overview/index.md)
+2. [Prepare IAM Role](2.IAM-Role-Prepare/index.md)
+3. [Create Chat Queue with AWS SQS](3.Create-Chat-Queue(AWS-SQS)/index.md)
+4. [Configure S3 and Event Notification](4.Congif-Save-And-Event(AWS-S3)/index.md)
+5. [Create and Code Lambda Function](5.CreateAndCode-LambdaFunction/index.md)
+6. [Testing and Validation](6.Testing-Validation/index.md)
+7. [Clean Up Resources](7.CleanUp/index.md)

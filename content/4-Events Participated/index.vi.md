@@ -1,6 +1,6 @@
 ---
 title: "Các events đã tham gia"
-date: 2024-01-01
+date: 2026-01-01
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
@@ -9,7 +9,7 @@ pre: " <b> 4. </b> "
 
 Trong quá trình thực tập, em đã tham gia 2 sự kiện communicate day, mỗi sự kiện mang lại những kiến thức mới, kỹ năng bổ ích và cơ hội kết nối với cộng đồng AWS Việt Nam.
 
-### [Event 1](Event_1/_index.vi.md)
+### [Event 1](Event_1/index.vi.md)
 &emsp;**Tên sự kiện:** AWS Community Day 2026
 
 &emsp;**Thời gian:** 23/05/2026
@@ -22,7 +22,7 @@ Trong quá trình thực tập, em đã tham gia 2 sự kiện communicate day, 
 
 &emsp;**Kết quả hoặc giá trị đạt được:** Học được kỹ năng phân chia vai trò tối ưu trong team, tận dụng sức mạnh GenAI trong workflow, áp dụng khung tư duy Goal → Situation → Constraints → Evidence vào trình bày giải pháp kỹ thuật, nắm vững cấu hình LLM và Amazon CloudFront. Có cơ hội kết nối với chuyên gia từ các doanh nghiệp lớn và thu hẹp khoảng cách giữa lý thuyết và thực tế.
 
-### [Event 2](Event_2/_index.vi.md)
+### [Event 2](Event_2/index.vi.md)
 &emsp;**Tên sự kiện:** AWS AI & Cloud Operations Workshop
 
 &emsp;**Thời gian:** 12/06/2026
