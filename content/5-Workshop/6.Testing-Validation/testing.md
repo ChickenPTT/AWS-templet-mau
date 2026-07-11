@@ -33,9 +33,9 @@ Chuẩn bị ít nhất 2 loại ảnh:
 
 3. Chọn **Upload** để bắt đầu tải ảnh.
 
-![Upload ảnh lên S3](/images/5-Workshop/5.6-Cleanup/image13.png)
+![Upload ảnh lên S3](images/image13.png)
 
-![Hoàn tất upload ảnh](/images/5-Workshop/5.6-Cleanup/image14.png)
+![Hoàn tất upload ảnh](images/image14.png)
 
 ---
 
@@ -47,9 +47,9 @@ Chuẩn bị ít nhất 2 loại ảnh:
 
 3. Chọn log stream mới nhất và kiểm tra output từ Lambda.
 
-![Kiểm tra CloudWatch Log groups](/images/5-Workshop/5.6-Cleanup/image15.png)
+![Kiểm tra CloudWatch Log groups](images/image15.png)
 
-![Kiểm tra output Lambda](/images/5-Workshop/5.6-Cleanup/image16.png)
+![Kiểm tra output Lambda](images/image16.png)
 
 ---
 
@@ -63,4 +63,4 @@ Chuẩn bị ít nhất 2 loại ảnh:
 
 Nếu queue trống, nghĩa là Lambda đã xử lý hết toàn bộ tin nhắn thành công.
 
-![Kiểm tra message trong SQS](/images/5-Workshop/5.6-Cleanup/image17.png)
+![Kiểm tra message trong SQS](images/image17.png)

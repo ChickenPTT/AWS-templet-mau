@@ -20,11 +20,11 @@ After completing the workshop, delete the resources you created to avoid unneces
 
 2. Select the queue created in the workshop, then choose **Delete**.
 
-![Delete SQS queue](/images/5-Workshop/5.7-CleanUp/image1.png)
+![Delete SQS queue](images/image1.png)
 
 3. Enter **Confirm** to confirm the queue deletion.
 
-![Confirm SQS queue deletion](/images/5-Workshop/5.7-CleanUp/image2.png)
+![Confirm SQS queue deletion](images/image2.png)
 
 ---
 
@@ -34,11 +34,11 @@ After completing the workshop, delete the resources you created to avoid unneces
 
 2. Select the function created in the workshop, then choose **Delete**.
 
-![Delete Lambda function](/images/5-Workshop/5.7-CleanUp/image3.png)
+![Delete Lambda function](images/image3.png)
 
 3. Enter the confirmation text to delete the function.
 
-![Confirm Lambda function deletion](/images/5-Workshop/5.7-CleanUp/image4.png)
+![Confirm Lambda function deletion](images/image4.png)
 
 ---
 
@@ -52,7 +52,7 @@ After completing the workshop, delete the resources you created to avoid unneces
 
 Note: The S3 bucket must be empty before deletion. If the bucket still contains objects, delete all objects in the bucket first.
 
-![Delete S3 bucket](/images/5-Workshop/5.7-CleanUp/image5.png)
+![Delete S3 bucket](images/image5.png)
 
 ---
 
@@ -64,4 +64,4 @@ Note: The S3 bucket must be empty before deletion. If the bucket still contains 
 
 3. Select the IAM Role **Lambda-ImageProcessing-Role** created in the workshop, then delete the role.
 
-![Delete IAM Role](/images/5-Workshop/5.7-CleanUp/image6.png)
+![Delete IAM Role](images/image6.png)

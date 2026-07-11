@@ -20,37 +20,37 @@ In this step, you will create an IAM Role for Lambda and attach the required pol
 
 1. Open the **AWS Console** and search for the **IAM** service.
 
-![Search for IAM service](/images/5-Workshop/5.2-Prerequisite/image1.png)
+![Search for IAM service](images/image1.png)
 
 2. Select **Roles**, then choose **Create role**.
 
-![Select Roles and Create role](/images/5-Workshop/5.2-Prerequisite/image2.png)
+![Select Roles and Create role](images/image2.png)
 
 3. In **Trusted entity type**, select **AWS service**.
 
 4. In **Use case**, select **Lambda**, then choose **Next**.
 
-![Select AWS service and Lambda](/images/5-Workshop/5.2-Prerequisite/image3.png)
+![Select AWS service and Lambda](images/image3.png)
 
 5. Search for and attach the required policies for Lambda.
 
-![Search for Lambda policies](/images/5-Workshop/5.2-Prerequisite/image4.png)
+![Search for Lambda policies](images/image4.png)
 
-![Select Lambda policies](/images/5-Workshop/5.2-Prerequisite/image5.png)
+![Select Lambda policies](images/image5.png)
 
-![Attach AWSLambdaBasicExecutionRole](/images/5-Workshop/5.2-Prerequisite/image6.png)
+![Attach AWSLambdaBasicExecutionRole](images/image6.png)
 
-![Attach AmazonS3ReadOnlyAccess](/images/5-Workshop/5.2-Prerequisite/image7.png)
+![Attach AmazonS3ReadOnlyAccess](images/image7.png)
 
-![Attach AmazonSQSFullAccess](/images/5-Workshop/5.2-Prerequisite/image8.png)
+![Attach AmazonSQSFullAccess](images/image8.png)
 
-![Attach Rekognition and Textract policies](/images/5-Workshop/5.2-Prerequisite/image9.png)
+![Attach Rekognition and Textract policies](images/image9.png)
 
 6. Name the role **Lambda-ImageProcessing-Role**, then choose **Create role**.
 
-![Name the IAM Role](/images/5-Workshop/5.2-Prerequisite/image10.png)
+![Name the IAM Role](images/image10.png)
 
-![Create IAM Role](/images/5-Workshop/5.2-Prerequisite/image11.png)
+![Create IAM Role](images/image11.png)
 
 ---
 
@@ -60,4 +60,4 @@ In a real production environment, instead of using broad AWS managed policies, y
 
 This follows the **Least Privilege** security best practice: grant only the permissions that are necessary and avoid excessive access.
 
-![Custom policy following least privilege](/images/5-Workshop/5.2-Prerequisite/image12.png)
+![Custom policy following least privilege](images/image12.png)

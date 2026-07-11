@@ -18,19 +18,19 @@ In this step, you will create a Lambda Function that receives messages from Amaz
 
 1. Open **AWS Lambda** and choose **Create function**.
 
-![Open AWS Lambda](/images/5-Workshop/5.5-Policy/image1.png)
+![Open AWS Lambda](images/image1.png)
 
 2. Select **Author from scratch**.
 
-![Select Author from scratch](/images/5-Workshop/5.5-Policy/image2.png)
+![Select Author from scratch](images/image2.png)
 
-![Create Lambda function](/images/5-Workshop/5.5-Policy/image3.png)
+![Create Lambda function](images/image3.png)
 
 3. Configure the Lambda Function.
 
-![Configure Lambda function](/images/5-Workshop/5.5-Policy/image4.png)
+![Configure Lambda function](images/image4.png)
 
-![Select runtime and role](/images/5-Workshop/5.5-Policy/image5.png)
+![Select runtime and role](images/image5.png)
 
 Suggested configuration:
 
@@ -40,15 +40,15 @@ Suggested configuration:
 
 4. Choose **Create function**.
 
-![Create function](/images/5-Workshop/5.5-Policy/image6.png)
+![Create function](images/image6.png)
 
 5. Open the **Configuration** tab, choose **General configuration**, then choose **Edit**.
 
-![Open General configuration](/images/5-Workshop/5.5-Policy/image7.png)
+![Open General configuration](images/image7.png)
 
 6. Set **Timeout = 60 seconds**, then save the configuration.
 
-![Set Lambda timeout](/images/5-Workshop/5.5-Policy/image8.png)
+![Set Lambda timeout](images/image8.png)
 
 ---
 
@@ -56,11 +56,11 @@ Suggested configuration:
 
 1. On the Lambda Function page, choose **Add trigger**.
 
-![Add trigger to Lambda](/images/5-Workshop/5.5-Policy/image9.png)
+![Add trigger to Lambda](images/image9.png)
 
 2. Select **SQS** as the source.
 
-![Select SQS trigger](/images/5-Workshop/5.5-Policy/image10.png)
+![Select SQS trigger](images/image10.png)
 
 3. Select the **image-processing-queue** queue.
 
@@ -70,7 +70,7 @@ A batch size of 1 lets Lambda process one message at a time, which is suitable f
 
 5. Choose **Add**.
 
-![Configure SQS trigger](/images/5-Workshop/5.5-Policy/image11.png)
+![Configure SQS trigger](images/image11.png)
 
 ---
 
@@ -80,7 +80,7 @@ A batch size of 1 lets Lambda process one message at a time, which is suitable f
 
 2. Remove the sample code, paste the following Python code that processes SQS messages, then choose **Deploy** to save the code.
 
-![Write Lambda code and deploy](/images/5-Workshop/5.5-Policy/image12.png)
+![Write Lambda code and deploy](images/image12.png)
 
 Sample code:
 

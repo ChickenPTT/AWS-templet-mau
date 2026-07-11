@@ -9,7 +9,7 @@ chapter: false
 ### Student Information:
 &emsp; **Full Name:** Phan Tiến Thịnh
 
-&emsp; ** Phone Number:** 0932828756
+&emsp; **Phone Number:** 0932828756
 
 &emsp; **Email:** phantienthinh0909@gmail.com
 

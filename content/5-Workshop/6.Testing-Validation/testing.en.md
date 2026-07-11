@@ -33,9 +33,9 @@ Prepare at least two types of images:
 
 3. Choose **Upload** to start uploading the images.
 
-![Upload images to S3](/images/5-Workshop/5.6-Cleanup/image13.png)
+![Upload images to S3](images/image13.png)
 
-![Finish uploading images](/images/5-Workshop/5.6-Cleanup/image14.png)
+![Finish uploading images](images/image14.png)
 
 ---
 
@@ -47,9 +47,9 @@ Prepare at least two types of images:
 
 3. Select the latest log stream and check the output from Lambda.
 
-![Check CloudWatch Log groups](/images/5-Workshop/5.6-Cleanup/image15.png)
+![Check CloudWatch Log groups](images/image15.png)
 
-![Check Lambda output](/images/5-Workshop/5.6-Cleanup/image16.png)
+![Check Lambda output](images/image16.png)
 
 ---
 
@@ -63,4 +63,4 @@ Prepare at least two types of images:
 
 If the queue is empty, Lambda has successfully processed all messages.
 
-![Check messages in SQS](/images/5-Workshop/5.6-Cleanup/image17.png)
+![Check messages in SQS](images/image17.png)

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** từ **3/5/2026** đến **[ngày kết thúc]**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** từ **03/05/2026** đến **05/08/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
 Tôi đã tham gia làm workshop với nhóm 4 người với đề tài **Giải pháp tự động hóa giám sát chất lượng hàng hóa dựa trên Serverless và AI/ML**, qua đó cải thiện kỹ năng **quản lý nhóm 4 người, phân chia công việc phù hợp với từng cá nhân, hiểu được quy trình những dịch vụ.**.
 
 Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
