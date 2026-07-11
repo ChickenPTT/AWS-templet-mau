@@ -15,12 +15,12 @@ pre: ""
 
 ### Các công việc cần triển khai trong tuần này:
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | --- | --- | --- | --- |
-| 2 | **Học tổng quan Data and Analytics** <br>&emsp; + Đọc nội dung giới thiệu nhóm lab <br>&emsp; + Ghi chú các dịch vụ dữ liệu thường dùng trên AWS <br>&emsp; + Xác định phần có thể áp dụng vào project | 06/07/2026 | 06/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
-| 3 | **Tìm hiểu lưu trữ và xử lý dữ liệu** <br>&emsp; + Ôn lại vai trò của S3 và DynamoDB <br>&emsp; + Tìm hiểu cách lưu lịch sử xử lý và kết quả phân tích <br>&emsp; + Ghi chú nhu cầu truy vấn dữ liệu theo thời gian | 07/07/2026 | 07/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
+| Thứ | Công việc                                                                                                                                                                                                                                         | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- | --- | --- |
+| 2 | **Học tổng quan Data and Analytics** <br>&emsp; + Đọc nội dung giới thiệu nhóm lab <br>&emsp; + Ghi chú các dịch vụ dữ liệu thường dùng trên AWS <br>&emsp; + Xác định phần có thể áp dụng vào project                                            | 06/07/2026 | 06/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
+| 3 | **Tìm hiểu lưu trữ và xử lý dữ liệu** <br>&emsp; + Ôn lại vai trò của S3 và DynamoDB <br>&emsp; + Tìm hiểu cách lưu lịch sử xử lý và kết quả phân tích <br>&emsp; + Ghi chú nhu cầu truy vấn dữ liệu theo thời gian                               | 07/07/2026 | 07/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
 | 4 | **Tìm hiểu phân tích và báo cáo dữ liệu** <br>&emsp; + Xác định các chỉ số cần thống kê: số ảnh xử lý, tỷ lệ lỗi, trạng thái xử lý <br>&emsp; + Đề xuất hướng làm báo cáo cho quản lý kho <br>&emsp; + Liên hệ với DynamoDB và CloudWatch metrics | 08/07/2026 | 08/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
-| 5 | **Tổng hợp kiến thức tuần 10** <br>&emsp; + Viết ghi chú các dịch vụ data analytics đã học <br>&emsp; + Cập nhật ý tưởng bổ sung cho proposal/workshop <br>&emsp; + Hoàn thiện worklog tuần 10 | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
+| 5 | **Phân chia nhóm để làm 3 Blogs** <br>&emsp; + Tìm kiếm nguồn blog của AWS <br>&emsp; + Nghiên cứu cấu trúc bài blogs <br>&emsp; + Hoàn thiện worklog tuần 10                                                                                     | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
 
 ### Kết quả đạt được tuần 10
 

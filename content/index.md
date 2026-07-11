@@ -31,12 +31,11 @@ chapter: false
 </div>
 
 
-### Nội dung báo cáo
+### Report Content
 
 1.  [Worklog](1-Worklog/)
 2.  [Proposal](2-Proposal/)
-3.  [Các bài blogs đã đăng](3-BlogsPosted/)
-4.  [Các events đã tham gia](4-EventParticipated/)
+3.  [Blogs Posted](3-Blogsposted/)
+4.  [Events Participated](4-Events%20Participated/)
 5.  [Workshop](5-Workshop/)
-6.  [Tự đánh giá](6-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+6.  [Self Assessment](6-Self-Assessment/)

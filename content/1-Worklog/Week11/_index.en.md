@@ -17,8 +17,7 @@ pre: ""
 
 | Day | Task | Start Date | End Date | Resource |
 | --- | --- | --- | --- | --- |
-| 2 | **Review Proposal** <br>&emsp; + Check problem statement, solution, and architecture sections <br>&emsp; + Cross-reference AWS services used with diagrams <br>&emsp; + Document sections that need edits | 13/07/2026 | 13/07/2026 | [Proposal](/Content/2.%20Proposal/_proposal.md) |
-| 3 | **Review Workshop** <br>&emsp; + Verify the order of practice steps <br>&emsp; + Check images and operation descriptions <br>&emsp; + Add explanations for test results | 14/07/2026 | 14/07/2026 | [Workshop](/Content/5.%20Workshop/1.WorkShop-overview/OverView.md) |
+| 2 | **Search for blog information** <br>&emsp; + Review the problem, solution, and architecture sections <br>&emsp; + Cross-check the AWS services used against the blog content. Proceed to write the blog post for Facebook | 13/07/2026 | 13/07/2026 |  || 3 | **Review Workshop** <br>&emsp; + Verify the order of practice steps <br>&emsp; + Check images and operation descriptions <br>&emsp; + Add explanations for test results | 14/07/2026 | 14/07/2026 | [Workshop](/Content/5.%20Workshop/1.WorkShop-overview/OverView.md) |
 | 4 | **Add Operations and Security Content** <br>&emsp; + Verify IAM least privilege <br>&emsp; + Add notes on CloudWatch logs/metrics <br>&emsp; + Document cleanup to avoid cost incurrence | 15/07/2026 | 15/07/2026 | [Cleanup](/Content/5.%20Workshop/7.CleanUp/cleanup.md) |
 | 5 | **Finalize Work Log** <br>&emsp; + Update worklogs for incomplete weeks <br>&emsp; + Standardize table format <br>&emsp; + Verify internal links | 16/07/2026 | 16/07/2026 |  |
 

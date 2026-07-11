@@ -20,7 +20,7 @@ pre: ""
 | 2 | **Learn Data and Analytics Overview** <br>&emsp; + Read introduction content for the lab group <br>&emsp; + Document commonly used data services on AWS <br>&emsp; + Identify which parts can be applied to the project | 06/07/2026 | 06/07/2026 | <https://cloudjourney.awsstudygroup.com/en/6-dataandanalytic/> |
 | 3 | **Understand Data Storage and Processing** <br>&emsp; + Review the role of S3 and DynamoDB <br>&emsp; + Learn how to store processing history and analysis results <br>&emsp; + Document requirements for querying data over time | 07/07/2026 | 07/07/2026 | <https://cloudjourney.awsstudygroup.com/en/6-dataandanalytic/> |
 | 4 | **Learn Data Analysis and Reporting** <br>&emsp; + Identify metrics to track: number of images processed, error rate, processing status <br>&emsp; + Propose approaches for reporting to warehouse managers <br>&emsp; + Connect with DynamoDB and CloudWatch metrics | 08/07/2026 | 08/07/2026 | <https://cloudjourney.awsstudygroup.com/en/6-dataandanalytic/> |
-| 5 | **Summarize Week 10 Knowledge** <br>&emsp; + Write notes on data analytics services learned <br>&emsp; + Update ideas for proposal/workshop improvements <br>&emsp; + Complete Week 10 worklog | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/en/6-dataandanalytic/> |
+| 5 | **Divide into groups to work on 3 Blogs** <br>&emsp; + Search for AWS blog sources <br>&emsp; + Research the blog post structure <br>&emsp; + Complete Week 10 worklog                                                                                     | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/vi/6-dataandanalytic/> |
 
 ### Results Achieved in Week 10
 

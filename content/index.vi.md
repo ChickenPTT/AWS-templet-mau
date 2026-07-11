@@ -33,10 +33,9 @@ chapter: false
 
 ### Nội dung báo cáo
 
-1.  [content](1-Worklog/)
-2.  [Proposal](2-Proposal/)
-3.  [Các bài blogs đã đăng](3-BlogsPosted/)
-4.  [Các events đã tham gia](4-EventParticipated/)
+1.  [Nhật ký công việc](1-Worklog/)
+2.  [Đề xuất dự án](2-Proposal/)
+3.  [Các bài blogs đã đăng](3-Blogsposted/)
+4.  [Các events đã tham gia](4-Events%20Participated/)
 5.  [Workshop](5-Workshop/)
-6.  [Tự đánh giá](6-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+6.  [Tự đánh giá](6-Self-Assessment/)
